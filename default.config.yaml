@@ -24,6 +24,7 @@ homebrew_installed_packages:
   - neovim
   - nmap
   - mise
+  - ripgrep
   - shellcheck
   - sops
   - ssh-copy-id
