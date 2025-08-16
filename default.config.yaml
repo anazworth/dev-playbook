@@ -6,6 +6,7 @@ homebrew_installed_packages:
   - bash
   - bat
   - btop
+  - fd
   - fzf
   - git
   - gh
